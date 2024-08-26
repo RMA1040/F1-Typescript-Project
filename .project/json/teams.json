@@ -4,7 +4,7 @@
         "name": "Ferrari",
         "location": "Maranello Italy",
         "championships": 16,
-        "teamUrl":"",
+        "teamUrl":"", /*krijg geen raw link*/
         "foundYear": 1948,
         "description": "Scuderia Ferrari is one of the most iconic and successful teams in Formula 1 history, founded in 1929 by Enzo Ferrari. With a record number of Constructors' and Drivers' Championships, Ferrari is renowned for its passion, heritage, and fierce competition on the track." 
     },
@@ -13,7 +13,7 @@
         "name": "Red Bull",
         "location": "Milton Keynes England",
         "championships": 6,
-        "teamUrl":"",
+        "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/caf50adb8f94d5a28a9198e07ccc0841f6eaba72/.project/assets/images/red-bull-racing-logo-1.webp",
         "foundYear": 2005 ,
         "description": "Red Bull Racing is a prominent Formula 1 team known for its innovation, speed, and competitive spirit. Founded in 2005, the team quickly rose to prominence, securing multiple Constructors' and Drivers' Championships, especially during its dominant run from 2010 to 2013. Based in Milton Keynes, UK, Red Bull is recognized for its bold strategies and pushing the limits of car design and performance."
     },
@@ -22,7 +22,7 @@
         "name": "McLaren",
         "location": "Woking England",
         "championships": 8,
-        "teamUrl":"",
+        "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/caf50adb8f94d5a28a9198e07ccc0841f6eaba72/.project/assets/images/mclaren-logo-2023.avif",
         "foundYear": 1963,
         "description": "McLaren is one of Formula 1's most storied teams, founded in 1963 by New Zealand driver Bruce McLaren. Known for its pioneering spirit and technical innovation, McLaren has secured numerous Constructors' and Drivers' Championships over the decades. The team, based in Woking, UK, has produced legendary drivers like Ayrton Senna and Lewis Hamilton. McLaren is recognized for its iconic papaya orange livery and its ability to bounce back from challenges."
     },
@@ -31,7 +31,7 @@
         "name": "Mercedes",
         "location": "Brackley England",
         "championships": 8,
-        "teamUrl":"",
+        "teamUrl":"", /*krijg geen raw link*/
         "foundYear": 2009,
         "description": "Mercedes-AMG Petronas Formula One Team is a dominant force in modern Formula 1, known for its engineering excellence and consistent success. The team, based in Brackley, UK, returned to F1 as a full works team in 2010 and quickly established itself as a powerhouse, winning multiple Constructors' and Drivers' Championships from 2014 onwards. Mercedes is famous for its precision, reliability, and innovation, often setting the benchmark for performance in the hybrid era."
     },
@@ -40,7 +40,7 @@
         "name": "Aston Martin",
         "location": "Silverstone England",
         "championships": 0,
-        "teamUrl":"",
+        "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/aston-martin-f1-team-logo-1.webp",
         "foundYear": 2018,
         "description": "Aston Martin Aramco Cognizant Formula One Team is a prestigious name in Formula 1, known for blending luxury automotive heritage with racing excellence. Originally entering the sport under different guises, the team rebranded as Aston Martin in 2021, bringing the iconic British brand back to F1 after decades. Based in Silverstone, UK, Aston Martin is focused on becoming a competitive force in the sport, with a strong emphasis on innovation and performance."
     },
@@ -49,7 +49,7 @@
         "name": "Haas",
         "location": "Kannapolis U.S.A.",
         "championships": 0,
-        "teamUrl":"",
+        "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/caf50adb8f94d5a28a9198e07ccc0841f6eaba72/.project/assets/images/Haas-F1-Logo-1-1155x770.webp",
         "foundYear": 2016,
         "description": "Haas F1 Team is an American-owned Formula 1 team, founded by Gene Haas and making its debut in the sport in 2016. Based in Kannapolis, North Carolina, and with a strong technical partnership with Ferrari, Haas quickly established itself as a competitive midfield contender. The team is known for its efficient and cost-effective approach, focusing on maximizing performance with limited resources."
     }
