@@ -1,0 +1,150 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9fafb;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.header {
+    padding: 16px;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.search-bar {
+    padding: 10px;
+    margin-bottom: 16px;
+}
+
+.search-bar input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #e5e7eb;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.character-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.character-item {
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.character-item:last-child {
+    border-bottom: none;
+}
+
+.character-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 16px;
+    background-color: #ddd;
+    background-size: cover;
+    background-position: center;
+}
+
+.character-info {
+    flex: 1;
+}
+
+.character-info h3 {
+    margin: 0;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+.character-info h3 span {
+    margin-left: 8px;
+    font-size: 14px;
+    color: #6b7280;
+}
+
+.character-info p {
+    margin: 4px 0 0;
+    color: #6b7280;
+}
+
+.abilities {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.ability {
+    padding: 4px 8px;
+    background-color: #e5e7eb;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.rarity {
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    color: white;
+}
+
+.legendary {
+    background-color: #f59e0b;
+}
+
+.epic {
+    background-color: #6366f1;
+}
+
+.active-status {
+    display: flex;
+    align-items: center;
+    margin-right: 16px;
+}
+
+.active-status .status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.status-active {
+    background-color: #10b981;
+}
+
+.status-inactive {
+    background-color: #ef4444;
+}
+
+.actions {
+    margin-left: 16px;
+}
+
+.actions a {
+    text-decoration: none;
+    color: #3b82f6;
+    font-weight: bold;
+}
