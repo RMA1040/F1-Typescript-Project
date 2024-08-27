@@ -2,7 +2,7 @@
     {
         "id": "FER",
         "name": "Ferrari",
-        "location": "Maranello Italy",
+        "Base": "Maranello Italy",
         "championships": 16,
         "teamUrl":"", /*krijg geen raw link*/
         "foundYear": 1948,
@@ -11,7 +11,7 @@
     {
         "id": "RDB",
         "name": "Red Bull",
-        "location": "Milton Keynes England",
+        "Base": "Milton Keynes England",
         "championships": 6,
         "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/caf50adb8f94d5a28a9198e07ccc0841f6eaba72/.project/assets/images/red-bull-racing-logo-1.webp",
         "foundYear": 2005 ,
@@ -20,7 +20,7 @@
     {
         "id": "MCL",
         "name": "McLaren",
-        "location": "Woking England",
+        "Base": "Woking England",
         "championships": 8,
         "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/caf50adb8f94d5a28a9198e07ccc0841f6eaba72/.project/assets/images/mclaren-logo-2023.avif",
         "foundYear": 1963,
@@ -29,7 +29,7 @@
     {
         "id": "MER",
         "name": "Mercedes",
-        "location": "Brackley England",
+        "Base": "Brackley England",
         "championships": 8,
         "teamUrl":"", /*krijg geen raw link*/
         "foundYear": 2009,
@@ -38,7 +38,7 @@
     {
         "id": "ASM",
         "name": "Aston Martin",
-        "location": "Silverstone England",
+        "Base": "Silverstone England",
         "championships": 0,
         "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/aston-martin-f1-team-logo-1.webp",
         "foundYear": 2018,
@@ -47,7 +47,7 @@
     {
         "id": "HAA",
         "name": "Haas",
-        "location": "Kannapolis U.S.A.",
+        "Base": "Kannapolis U.S.A.",
         "championships": 0,
         "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/caf50adb8f94d5a28a9198e07ccc0841f6eaba72/.project/assets/images/Haas-F1-Logo-1-1155x770.webp",
         "foundYear": 2016,

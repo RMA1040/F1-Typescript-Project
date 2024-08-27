@@ -12,7 +12,7 @@
         "team": {
             "id": "FER",
             "name": "Ferrari",
-            "location": "Maranello Italy",
+            "Base": "Maranello Italy",
             "championships": 16,
             "teamUrl":"",
             "foundYear": 1948,
@@ -32,7 +32,7 @@
         "team": {
             "id": "RDB",
             "name": "Red Bull",
-            "location": "Milton Keynes England",
+            "Base": "Milton Keynes England",
             "championships": 6,
             "teamUrl":"",
             "foundYear": 2005 ,
@@ -52,7 +52,7 @@
         "team": {
             "id": "MCL",
             "name": "McLaren",
-            "location": "Woking England",
+            "Base": "Woking England",
             "championships": 8,
             "teamUrl":"",
             "foundYear": 1963,
@@ -72,7 +72,7 @@
         "team": {
             "id": "MCL",
             "name": "McLaren",
-            "location": "Woking England",
+            "Base": "Woking England",
             "championships": 8,
             "teamUrl":"",
             "foundYear": 1963,
@@ -92,7 +92,7 @@
         "team": {
             "id": "FER",
             "name": "Ferrari",
-            "location": "Maranello Italy",
+            "Base": "Maranello Italy",
             "championships": 16,
             "teamUrl":"",
             "foundYear": 1948,
@@ -112,7 +112,7 @@
         "team": {
             "id": "MER",
             "name": "Mercedes",
-            "location": "Brackley England",
+            "Base": "Brackley England",
             "championships": 8,
             "teamUrl":"",
             "foundYear": 2009,
@@ -132,7 +132,7 @@
         "team": {
             "id": "RDB",
             "name": "Red Bull",
-            "location": "Milton Keynes England",
+            "Base": "Milton Keynes England",
             "championships": 6,
             "teamUrl":"",
             "foundYear": 2005 ,
@@ -152,7 +152,7 @@
         "team": {
             "id": "MER",
             "name": "Mercedes",
-            "location": "Brackley England",
+            "Base": "Brackley England",
             "championships": 8,
             "teamUrl":"",
             "foundYear": 2009,
@@ -172,7 +172,7 @@
         "team": {
             "id": "ASM",
             "name": "Aston Martin",
-            "location": "Silverstone England",
+            "Base": "Silverstone England",
             "championships": 0,
             "teamUrl":"",
             "foundYear": 2018,
@@ -191,12 +191,12 @@
         "skills": ["Qualifying Prowess", "Analytical Approach", "Adaptability"],
         "team": {
             "id": "HAA",
-        "name": "Haas",
-        "location": "Kannapolis U.S.A.",
-        "championships": 0,
-        "teamUrl":"",
-        "foundYear": 2016,
-        "description": "Haas F1 Team is an American-owned Formula 1 team, founded by Gene Haas and making its debut in the sport in 2016. Based in Kannapolis, North Carolina, and with a strong technical partnership with Ferrari, Haas quickly established itself as a competitive midfield contender. The team is known for its efficient and cost-effective approach, focusing on maximizing performance with limited resources."
-        }
+            "name": "Haas",
+            "Base": "Kannapolis U.S.A.",
+            "championships": 0,
+            "teamUrl":"",
+            "foundYear": 2016,
+            "description": "Haas F1 Team is an American-owned Formula 1 team, founded by Gene Haas and making its debut in the sport in 2016. Based in Kannapolis, North Carolina, and with a strong technical partnership with Ferrari, Haas quickly established itself as a competitive midfield contender. The team is known for its efficient and cost-effective approach, focusing on maximizing performance with limited resources."
+            }
     }
 ]
