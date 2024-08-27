@@ -9,7 +9,7 @@ let drivers = [
         "age": 26,
         "isActive": true,
         "firstRace": "25-03-2018",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/leclerc.avif",
         "Country": "Monaco",
         "skills": ["Qualifying  Prowess", "Calculated Overtaking", "Consistency"],
         "team": {
@@ -17,7 +17,7 @@ let drivers = [
             "name": "Ferrari",
             "Base": "Maranello Italy",
             "championships": 16,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/ferrari.avif",
             "foundYear": 1948,
             "description": "Scuderia Ferrari is one of the most iconic and successful teams in Formula 1 history, founded in 1929 by Enzo Ferrari. With a record number of Constructors' and Drivers' Championships, Ferrari is renowned for its passion, heritage, and fierce competition on the track."
         }
@@ -29,7 +29,7 @@ let drivers = [
         "age": 26,
         "isActive": true,
         "firstRace": "15-03-2015",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/verstappen.avif",
         "Country": "Netherlands",
         "skills": ["Exceptional Racecraft", "Aggressive Driving Style", "Adaptability"],
         "team": {
@@ -37,7 +37,7 @@ let drivers = [
             "name": "Red Bull",
             "Base": "Milton Keynes England",
             "championships": 6,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/red%20bull.avif",
             "foundYear": 2005 ,
             "description": "Red Bull Racing is a prominent Formula 1 team known for its innovation, speed, and competitive spirit. Founded in 2005, the team quickly rose to prominence, securing multiple Constructors' and Drivers' Championships, especially during its dominant run from 2010 to 2013. Based in Milton Keynes, UK, Red Bull is recognized for its bold strategies and pushing the limits of car design and performance."
         }
@@ -49,7 +49,7 @@ let drivers = [
         "age": 24,
         "isActive": true,
         "firstRace": "17-03-2019",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/norris.avif",
         "Country": "England",
         "skills": ["Exceptional Qualifying Speed", "Racecraft", "Technical Communication"],
         "team": {
@@ -57,7 +57,7 @@ let drivers = [
             "name": "McLaren",
             "Base": "Woking England",
             "championships": 8,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/mclaren.avif",
             "foundYear": 1963,
             "description": "McLaren is one of Formula 1's most storied teams, founded in 1963 by New Zealand driver Bruce McLaren. Known for its pioneering spirit and technical innovation, McLaren has secured numerous Constructors' and Drivers' Championships over the decades. The team, based in Woking, UK, has produced legendary drivers like Ayrton Senna and Lewis Hamilton. McLaren is recognized for its iconic papaya orange livery and its ability to bounce back from challenges."
         }
@@ -69,7 +69,7 @@ let drivers = [
         "age": 23,
         "isActive": true,
         "firstRace": "05-03-2023",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/piastri.avif",
         "Country": "Australia",
         "skills": ["Smooth Driving Style", "Strategic Racecraft", "Adaptability"],
         "team": {
@@ -77,7 +77,7 @@ let drivers = [
             "name": "McLaren",
             "Base": "Woking England",
             "championships": 8,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/mclaren.avif",
             "foundYear": 1963,
             "description": "McLaren is one of Formula 1's most storied teams, founded in 1963 by New Zealand driver Bruce McLaren. Known for its pioneering spirit and technical innovation, McLaren has secured numerous Constructors' and Drivers' Championships over the decades. The team, based in Woking, UK, has produced legendary drivers like Ayrton Senna and Lewis Hamilton. McLaren is recognized for its iconic papaya orange livery and its ability to bounce back from challenges."
         }
@@ -89,7 +89,7 @@ let drivers = [
         "age": 29,
         "isActive": true,
         "firstRace": "15-03-2015",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/sainz.avif",
         "Country": "Spain",
         "skills": ["Strategic Racing Approach", "Smooth Driving Style", "Strong Work Ethic"],
         "team": {
@@ -97,7 +97,7 @@ let drivers = [
             "name": "Ferrari",
             "Base": "Maranello Italy",
             "championships": 16,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/ferrari.avif",
             "foundYear": 1948,
             "description": "Scuderia Ferrari is one of the most iconic and successful teams in Formula 1 history, founded in 1929 by Enzo Ferrari. With a record number of Constructors' and Drivers' Championships, Ferrari is renowned for its passion, heritage, and fierce competition on the track."
         }
@@ -109,7 +109,7 @@ let drivers = [
         "age": 39,
         "isActive": true,
         "firstRace": "18-03-2007",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/hamilton.avif",
         "Country": "England",
         "skills": ["Exceptional Speed", "Technical Communication", "Adaptability"],
         "team": {
@@ -117,7 +117,7 @@ let drivers = [
             "name": "Mercedes",
             "Base": "Brackley England",
             "championships": 8,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/mercedes.avif",
             "foundYear": 2009,
             "description": "Mercedes-AMG Petronas Formula One Team is a dominant force in modern Formula 1, known for its engineering excellence and consistent success. The team, based in Brackley, UK, returned to F1 as a full works team in 2010 and quickly established itself as a powerhouse, winning multiple Constructors' and Drivers' Championships from 2014 onwards. Mercedes is famous for its precision, reliability, and innovation, often setting the benchmark for performance in the hybrid era."
         }
@@ -129,7 +129,7 @@ let drivers = [
         "age": 34,
         "isActive": true,
         "firstRace": "13-03-2011",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/perez.avif",
         "Country": "Mexico",
         "skills": ["Tire Management", "Strategic Thinking", "Incredible Defense"],
         "team": {
@@ -137,7 +137,7 @@ let drivers = [
             "name": "Red Bull",
             "Base": "Milton Keynes England",
             "championships": 6,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/red%20bull.avif",
             "foundYear": 2005 ,
             "description": "Red Bull Racing is a prominent Formula 1 team known for its innovation, speed, and competitive spirit. Founded in 2005, the team quickly rose to prominence, securing multiple Constructors' and Drivers' Championships, especially during its dominant run from 2010 to 2013. Based in Milton Keynes, UK, Red Bull is recognized for its bold strategies and pushing the limits of car design and performance."
         }
@@ -149,7 +149,7 @@ let drivers = [
         "age": 26,
         "isActive": true,
         "firstRace": "17-03-2019",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/russell.avif",
         "Country": "England",
         "skills": ["Consistency", "Strategic Thinking", "Incredible Defense"],
         "team": {
@@ -157,7 +157,7 @@ let drivers = [
             "name": "Mercedes",
             "Base": "Brackley England",
             "championships": 8,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/mercedes.avif",
             "foundYear": 2009,
             "description": "Mercedes-AMG Petronas Formula One Team is a dominant force in modern Formula 1, known for its engineering excellence and consistent success. The team, based in Brackley, UK, returned to F1 as a full works team in 2010 and quickly established itself as a powerhouse, winning multiple Constructors' and Drivers' Championships from 2014 onwards. Mercedes is famous for its precision, reliability, and innovation, often setting the benchmark for performance in the hybrid era."
         }
@@ -169,7 +169,7 @@ let drivers = [
         "age": 43,
         "isActive": true,
         "firstRace": "04-03-2001",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/alonso.avif",
         "Country": "Spain",
         "skills": ["Aggressive Driving Style", "Strategic Thinking", "Racecraft"],
         "team": {
@@ -177,7 +177,7 @@ let drivers = [
             "name": "Aston Martin",
             "Base": "Silverstone England",
             "championships": 0,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/aston%20martin%202024.avif",
             "foundYear": 2018,
             "description": "Aston Martin Aramco Cognizant Formula One Team is a prestigious name in Formula 1, known for blending luxury automotive heritage with racing excellence. Originally entering the sport under different guises, the team rebranded as Aston Martin in 2021, bringing the iconic British brand back to F1 after decades. Based in Silverstone, UK, Aston Martin is focused on becoming a competitive force in the sport, with a strong emphasis on innovation and performance."
         }
@@ -189,7 +189,7 @@ let drivers = [
         "age": 37,
         "isActive": true,
         "firstRace": "14-03-2010",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/hulkenberg.avif",
         "Country": "Germany",
         "skills": ["Qualifying Prowess", "Analytical Approach", "Adaptability"],
         "team": {
@@ -197,7 +197,7 @@ let drivers = [
             "name": "Haas",
             "Base": "Kannapolis U.S.A.",
             "championships": 0,
-            "teamUrl":"",
+            "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/haas.avif",
             "foundYear": 2016,
             "description": "Haas F1 Team is an American-owned Formula 1 team, founded by Gene Haas and making its debut in the sport in 2016. Based in Kannapolis, North Carolina, and with a strong technical partnership with Ferrari, Haas quickly established itself as a competitive midfield contender. The team is known for its efficient and cost-effective approach, focusing on maximizing performance with limited resources."
             }
