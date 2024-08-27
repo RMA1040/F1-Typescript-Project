@@ -4,7 +4,7 @@
         "name": "Ferrari",
         "Base": "Maranello Italy",
         "championships": 16,
-        "teamUrl":"", /*krijg geen raw link*/
+        "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/ferrari.avif",
         "foundYear": 1948,
         "description": "Scuderia Ferrari is one of the most iconic and successful teams in Formula 1 history, founded in 1929 by Enzo Ferrari. With a record number of Constructors' and Drivers' Championships, Ferrari is renowned for its passion, heritage, and fierce competition on the track." 
     },
@@ -31,7 +31,7 @@
         "name": "Mercedes",
         "Base": "Brackley England",
         "championships": 8,
-        "teamUrl":"", /*krijg geen raw link*/
+        "teamUrl":"https://raw.githubusercontent.com/RMA1040/F1-Typescript-Project/main/.project/assets/images/mercedes.avif",
         "foundYear": 2009,
         "description": "Mercedes-AMG Petronas Formula One Team is a dominant force in modern Formula 1, known for its engineering excellence and consistent success. The team, based in Brackley, UK, returned to F1 as a full works team in 2010 and quickly established itself as a powerhouse, winning multiple Constructors' and Drivers' Championships from 2014 onwards. Mercedes is famous for its precision, reliability, and innovation, often setting the benchmark for performance in the hybrid era."
     },
